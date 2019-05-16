@@ -2,5 +2,6 @@
 
 Materials for the MolSSI workshop at SETCA 2019.
 
-##
-this is a subtitle
+## Geo Analysis project
+
+A code was written to calculate the distances between the atoms of a water molecule.
